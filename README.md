@@ -4,7 +4,7 @@ This project uses the data behind the story [Some People Are Too Superstitious T
 
 ```US_births_1994-2003_CDC_NCHS.csv``` contains U.S. births data for the years 1994 to 2003, as provided by the Centers for Disease Control and Prevention's National Center for Health Statistics.
 
-Both files have the following structure:
+The csv file has the following structure:
 
 | Header | Definition |
 | ------ | --------- |
